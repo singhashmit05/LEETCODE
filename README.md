@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/singhashmit05/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhashmit05/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/singhashmit05/LEETCODE/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
