@@ -18,7 +18,7 @@ class Solution:
                 count+=1
             else:
                 count-=1
-        count1=0
+        count1=nums.count(el)
         for i in range(len(nums)):
             if nums[i]==el:
                count1+=1
