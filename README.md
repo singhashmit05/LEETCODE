@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/singhashmit05/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/singhashmit05/LEETCODE/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/singhashmit05/LEETCODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
