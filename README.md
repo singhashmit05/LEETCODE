@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhashmit05/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/singhashmit05/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/singhashmit05/LEETCODE/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/singhashmit05/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/singhashmit05/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/singhashmit05/LEETCODE/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -86,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/singhashmit05/LEETCODE/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/singhashmit05/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/singhashmit05/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/singhashmit05/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
