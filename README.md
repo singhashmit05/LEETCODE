@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/singhashmit05/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/singhashmit05/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/singhashmit05/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhashmit05/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Counting
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/singhashmit05/LEETCODE/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/singhashmit05/LEETCODE/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/singhashmit05/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/singhashmit05/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
