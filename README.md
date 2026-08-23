@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhashmit05/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/singhashmit05/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/singhashmit05/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhashmit05/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/singhashmit05/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/singhashmit05/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/singhashmit05/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/singhashmit05/LEETCODE/tree/master/0904-fruit-into-baskets) |
 ## Quicksort
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhashmit05/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhashmit05/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/singhashmit05/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/singhashmit05/LEETCODE/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
