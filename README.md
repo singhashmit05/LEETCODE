@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhashmit05/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/singhashmit05/LEETCODE/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/singhashmit05/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/singhashmit05/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/singhashmit05/LEETCODE/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/singhashmit05/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhashmit05/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/singhashmit05/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/singhashmit05/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/singhashmit05/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/singhashmit05/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/singhashmit05/LEETCODE/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/singhashmit05/LEETCODE/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/singhashmit05/LEETCODE/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
