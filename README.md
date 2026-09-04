@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/singhashmit05/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/singhashmit05/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/singhashmit05/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/singhashmit05/LEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/singhashmit05/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/singhashmit05/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/singhashmit05/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/singhashmit05/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/singhashmit05/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/singhashmit05/LEETCODE/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/singhashmit05/LEETCODE/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/singhashmit05/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/singhashmit05/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/singhashmit05/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/singhashmit05/LEETCODE/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/singhashmit05/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/singhashmit05/LEETCODE/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/singhashmit05/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/singhashmit05/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/singhashmit05/LEETCODE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/singhashmit05/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
