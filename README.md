@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/singhashmit05/LEETCODE/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/singhashmit05/LEETCODE/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/singhashmit05/LEETCODE/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/singhashmit05/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/singhashmit05/LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
